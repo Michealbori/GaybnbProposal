@@ -56,6 +56,7 @@ function App() {
       <strong>Michael</strong><br/>
       Website Designer & Developer<br/>
       📞 +234 705 599 4292<br/>
+          ✉️ micheallaehcim07@gmail.com <br />
 
     </div>
 
